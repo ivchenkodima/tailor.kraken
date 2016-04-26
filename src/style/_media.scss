@@ -203,3 +203,7 @@ $units: 1px !default;
     @content;
   }
 }
+@font-face {
+  font-family: "Goudy Trajan";
+  src: url("../fonts/GoudyTrajan-Regular.otf") format("otf")
+}
